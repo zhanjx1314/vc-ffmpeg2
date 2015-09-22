@@ -1,0 +1,1 @@
+Build  ffmpeg2.0. by vs2008
